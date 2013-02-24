@@ -1,4 +1,4 @@
-  def desenhar_poligonos(numero,coordenadas)
+ def desenhar_poligonos(numero,coordenadas)
     "	<Placemark>
     		<name>Contorno #{numero}</name>
     		<styleUrl>#contorno#{numero}</styleUrl>
